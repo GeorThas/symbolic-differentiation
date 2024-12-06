@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DevRepo\\SymDiff\\CppDLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{601FD8B8-49A4-4E70-A5C6-27AA495AE362}|CppDLL.vcxproj|D:\\DevRepo\\SymDiff\\CppDLL\\DiffParser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{601FD8B8-49A4-4E70-A5C6-27AA495AE362}|CppDLL.vcxproj|solutionrelative:DiffParser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601FD8B8-49A4-4E70-A5C6-27AA495AE362}|CppDLL.vcxproj|D:\\DevRepo\\SymDiff\\CppDLL\\Differentiation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{601FD8B8-49A4-4E70-A5C6-27AA495AE362}|CppDLL.vcxproj|solutionrelative:Differentiation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601FD8B8-49A4-4E70-A5C6-27AA495AE362}|CppDLL.vcxproj|D:\\DevRepo\\SymDiff\\CppDLL\\myFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{601FD8B8-49A4-4E70-A5C6-27AA495AE362}|CppDLL.vcxproj|solutionrelative:myFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601FD8B8-49A4-4E70-A5C6-27AA495AE362}|CppDLL.vcxproj|D:\\DevRepo\\SymDiff\\CppDLL\\myFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{601FD8B8-49A4-4E70-A5C6-27AA495AE362}|CppDLL.vcxproj|solutionrelative:myFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601FD8B8-49A4-4E70-A5C6-27AA495AE362}|CppDLL.vcxproj|D:\\DevRepo\\SymDiff\\CppDLL\\Tokenizator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{601FD8B8-49A4-4E70-A5C6-27AA495AE362}|CppDLL.vcxproj|solutionrelative:Tokenizator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Differentiation.cpp",
+              "DocumentMoniker": "D:\\DevRepo\\SymDiff\\CppDLL\\Differentiation.cpp",
+              "RelativeDocumentMoniker": "Differentiation.cpp",
+              "ToolTip": "D:\\DevRepo\\SymDiff\\CppDLL\\Differentiation.cpp",
+              "RelativeToolTip": "Differentiation.cpp",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T20:18:23.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiffParser.cpp",
+              "DocumentMoniker": "D:\\DevRepo\\SymDiff\\CppDLL\\DiffParser.cpp",
+              "RelativeDocumentMoniker": "DiffParser.cpp",
+              "ToolTip": "D:\\DevRepo\\SymDiff\\CppDLL\\DiffParser.cpp",
+              "RelativeToolTip": "DiffParser.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T20:18:23.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tokenizator.cpp",
+              "DocumentMoniker": "D:\\DevRepo\\SymDiff\\CppDLL\\Tokenizator.cpp",
+              "RelativeDocumentMoniker": "Tokenizator.cpp",
+              "ToolTip": "D:\\DevRepo\\SymDiff\\CppDLL\\Tokenizator.cpp",
+              "RelativeToolTip": "Tokenizator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T20:18:23.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "myFunctions.cpp",
+              "DocumentMoniker": "D:\\DevRepo\\SymDiff\\CppDLL\\myFunctions.cpp",
+              "RelativeDocumentMoniker": "myFunctions.cpp",
+              "ToolTip": "D:\\DevRepo\\SymDiff\\CppDLL\\myFunctions.cpp",
+              "RelativeToolTip": "myFunctions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T20:18:23.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "myFunctions.h",
+              "DocumentMoniker": "D:\\DevRepo\\SymDiff\\CppDLL\\myFunctions.h",
+              "RelativeDocumentMoniker": "myFunctions.h",
+              "ToolTip": "D:\\DevRepo\\SymDiff\\CppDLL\\myFunctions.h",
+              "RelativeToolTip": "myFunctions.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T20:18:23.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

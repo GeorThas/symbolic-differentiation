@@ -1,0 +1,23 @@
+﻿  DiffConstant.cpp
+D:\DevRepo\SymDiff\CppDLL\DiffConstant.cpp(30,25): warning C4101: e: неиспользованная локальная переменная
+  DiffCosinus.cpp
+  Differentiation.cpp
+  DiffParser.cpp
+D:\DevRepo\SymDiff\CppDLL\DiffParser.cpp(31,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\DevRepo\SymDiff\CppDLL\DiffParser.cpp(97,25): warning C4101: e: неиспользованная локальная переменная
+  DiffPowerFunc.cpp
+  DiffSinus.cpp
+  DiffVariable.cpp
+  Error.cpp
+  myFunctions.cpp
+D:\DevRepo\SymDiff\CppDLL\myFunctions.cpp(47,16): warning C4101: e: неиспользованная локальная переменная
+D:\DevRepo\SymDiff\CppDLL\myFunctions.cpp(52,31): warning C4101: e: неиспользованная локальная переменная
+  RevPolNot.cpp
+  Token.cpp
+  Tokenizator.cpp
+  Создание кода...
+D:\DevRepo\SymDiff\CppDLL\Token.cpp(72,1): warning C4715: Token::getPrecendance: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\DevRepo\SymDiff\CppDLL\Debug\CppDLL.lib и объект D:\DevRepo\SymDiff\CppDLL\Debug\CppDLL.exp
+  CppDLL.vcxproj -> D:\DevRepo\SymDiff\CppDLL\Debug\CppDLL.dll
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

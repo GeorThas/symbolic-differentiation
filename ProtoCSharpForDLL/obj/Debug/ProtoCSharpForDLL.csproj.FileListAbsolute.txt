@@ -1,0 +1,10 @@
+D:\repos\ProtoCSharpForDLL\bin\Debug\ProtoCSharpForDLL.exe.config
+D:\repos\ProtoCSharpForDLL\bin\Debug\ProtoCSharpForDLL.exe
+D:\repos\ProtoCSharpForDLL\bin\Debug\ProtoCSharpForDLL.pdb
+D:\repos\ProtoCSharpForDLL\obj\Debug\ProtoCSharpForDLL.csproj.AssemblyReference.cache
+D:\repos\ProtoCSharpForDLL\obj\Debug\ProtoCSharpForDLL.Form1.resources
+D:\repos\ProtoCSharpForDLL\obj\Debug\ProtoCSharpForDLL.Properties.Resources.resources
+D:\repos\ProtoCSharpForDLL\obj\Debug\ProtoCSharpForDLL.csproj.GenerateResource.cache
+D:\repos\ProtoCSharpForDLL\obj\Debug\ProtoCSharpForDLL.csproj.CoreCompileInputs.cache
+D:\repos\ProtoCSharpForDLL\obj\Debug\ProtoCSharpForDLL.exe
+D:\repos\ProtoCSharpForDLL\obj\Debug\ProtoCSharpForDLL.pdb

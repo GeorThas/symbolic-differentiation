@@ -1,0 +1,2 @@
+D:\repos\CppDLL\Debug\CppDLL.dll
+C:\Users\georg\OneDrive\Рабочий стол\CppDLL\Debug\CppDLL.dll

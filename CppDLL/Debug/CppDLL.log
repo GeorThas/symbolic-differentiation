@@ -1,0 +1,21 @@
+﻿  DiffConstant.cpp
+C:\Users\georg\OneDrive\Рабочий стол\CppDLL\DiffConstant.cpp(30,25): warning C4101: e: неиспользованная локальная переменная
+  DiffCosinus.cpp
+  Differentiation.cpp
+  DiffParser.cpp
+C:\Users\georg\OneDrive\Рабочий стол\CppDLL\DiffParser.cpp(32,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\georg\OneDrive\Рабочий стол\CppDLL\DiffParser.cpp(98,25): warning C4101: e: неиспользованная локальная переменная
+  DiffPowerFunc.cpp
+  DiffSinus.cpp
+  DiffVariable.cpp
+  Error.cpp
+  myFunctions.cpp
+C:\Users\georg\OneDrive\Рабочий стол\CppDLL\myFunctions.cpp(47,16): warning C4101: e: неиспользованная локальная переменная
+C:\Users\georg\OneDrive\Рабочий стол\CppDLL\myFunctions.cpp(52,31): warning C4101: e: неиспользованная локальная переменная
+  RevPolNot.cpp
+  Token.cpp
+  Tokenizator.cpp
+  Создание кода...
+C:\Users\georg\OneDrive\Рабочий стол\CppDLL\Token.cpp(72): warning C4715: Token::getPrecendance: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\georg\OneDrive\Рабочий стол\CppDLL\Debug\CppDLL.lib и объект C:\Users\georg\OneDrive\Рабочий стол\CppDLL\Debug\CppDLL.exp
+  CppDLL.vcxproj -> C:\Users\georg\OneDrive\Рабочий стол\CppDLL\Debug\CppDLL.dll
